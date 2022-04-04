@@ -7,3 +7,10 @@ The ROI and resulting cluster labels are then appended to the input shapefile, w
 The HIRONEX output is not perfect, as HIRONEX is work in progress and is currently being improved.
 There are a few user-set parameters (see script), that should be tested in order to optimize results. While sensitivity analyses have shown that the results are largely invariant to these parameters, tweaking them can greatly improve processing time.
 
+<img width="1000" src="https://github.com/johannesuhl/hironex/blob/main/hironex.jpg">
+
+Reference:
+
+Uhl, J. H., Leyk, S., Chiang, Y. Y., & Knoblock, C. A. (2022). Towards the automated large-scale reconstruction of past road networks from historical maps. Computers, Environment and Urban Systems, 94, 101794. https://doi.org/10.1016/j.compenvurbsys.2022.101794
+
+
